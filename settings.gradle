@@ -1,0 +1,2 @@
+rootProject.name='mtn_bizz_2'
+include ':app'
